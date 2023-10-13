@@ -1,0 +1,803 @@
+[
+  {
+    "info": {
+      "id": "468682",
+      "name": "Third Wave Coffee",
+      "cloudinaryImageId": "d96267738c19ec62acb5390e52faba41",
+      "locality": "New Airport Road",
+      "areaName": "Devanahalli",
+      "costForTwo": "₹400 for two",
+      "cuisines": ["Pizzas", "Snacks"],
+      "avgRating": 4.2,
+      "feeDetails": {
+        "restaurantId": "468682",
+        "fees": [
+          {
+            "name": "BASE_DISTANCE",
+            "fee": 11900
+          },
+          {
+            "name": "BASE_TIME"
+          },
+          {
+            "name": "ANCILLARY_SURGE_FEE"
+          }
+        ],
+        "totalFee": 11900
+      },
+      "parentId": "274773",
+      "avgRatingString": "4.2",
+      "totalRatingsString": "100+",
+      "sla": {
+        "deliveryTime": 73,
+        "lastMileTravel": 11.3,
+        "serviceability": "SERVICEABLE",
+        "slaString": "73 mins",
+        "lastMileTravelString": "11.3 km",
+        "iconType": "ICON_TYPE_EMPTY"
+      },
+      "availability": {
+        "nextCloseTime": "2023-10-13 23:00:00",
+        "opened": true
+      },
+      "badges": {
+        "textExtendedBadges": [
+          {
+            "iconId": "guiltfree/GF_Logo_android_3x",
+            "shortDescription": "options available",
+            "fontColor": "#7E808C"
+          }
+        ]
+      },
+      "isOpen": true,
+      "type": "F",
+      "badgesV2": {
+        "entityBadges": {
+          "imageBased": {},
+          "textBased": {},
+          "textExtendedBadges": {
+            "badgeObject": [
+              {
+                "attributes": {
+                  "description": "",
+                  "fontColor": "#7E808C",
+                  "iconId": "guiltfree/GF_Logo_android_3x",
+                  "shortDescription": "options available"
+                }
+              }
+            ]
+          }
+        }
+      },
+      "aggregatedDiscountInfoV3": {
+        "header": "20% OFF",
+        "subHeader": "UPTO ₹50"
+      },
+      "orderabilityCommunication": {
+        "title": {},
+        "subTitle": {},
+        "message": {},
+        "customIcon": {}
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+          "lottie": {},
+          "video": {}
+        }
+      },
+      "reviewsSummary": {},
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "restaurantOfferPresentationInfo": {}
+    },
+    "analytics": {
+      "context": "seo-data-27eb5dfa-e499-42db-84f2-2255cc18a7b5"
+    },
+    "cta": {
+      "link": "https://www.swiggy.com/restaurants/third-wave-coffee-new-airport-road-devanahalli-bangalore-468682",
+      "text": "RESTAURANT_MENU",
+      "type": "WEBLINK"
+    },
+    "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+  },
+  {
+    "info": {
+      "id": "365616",
+      "name": "A2B - Adyar Ananda Bhavan",
+      "cloudinaryImageId": "k6dqoey89bnslphw7u1l",
+      "locality": "Sonnapanahalli",
+      "areaName": "Bettahalasur Road",
+      "costForTwo": "₹450 for two",
+      "cuisines": ["South Indian", "North Indian", "Sweets", "Chinese"],
+      "avgRating": 4.3,
+      "veg": true,
+      "feeDetails": {
+        "restaurantId": "365616",
+        "fees": [
+          {
+            "name": "BASE_DISTANCE",
+            "fee": 15500
+          },
+          {
+            "name": "BASE_TIME"
+          },
+          {
+            "name": "ANCILLARY_SURGE_FEE"
+          }
+        ],
+        "totalFee": 15500
+      },
+      "parentId": "22",
+      "avgRatingString": "4.3",
+      "totalRatingsString": "1K+",
+      "sla": {
+        "deliveryTime": 85,
+        "lastMileTravel": 14.1,
+        "serviceability": "SERVICEABLE",
+        "slaString": "85 mins",
+        "lastMileTravelString": "14.1 km",
+        "iconType": "ICON_TYPE_EMPTY"
+      },
+      "availability": {
+        "nextCloseTime": "2023-10-13 22:30:00",
+        "opened": true
+      },
+      "badges": {
+        "imageBadges": [
+          {
+            "imageId": "v1695133679/badges/Pure_Veg111.png",
+            "description": "pureveg"
+          }
+        ]
+      },
+      "isOpen": true,
+      "type": "F",
+      "badgesV2": {
+        "entityBadges": {
+          "imageBased": {
+            "badgeObject": [
+              {
+                "attributes": {
+                  "description": "pureveg",
+                  "imageId": "v1695133679/badges/Pure_Veg111.png"
+                }
+              }
+            ]
+          },
+          "textBased": {},
+          "textExtendedBadges": {}
+        }
+      },
+      "aggregatedDiscountInfoV3": {
+        "header": "30% OFF",
+        "subHeader": "UPTO ₹75"
+      },
+      "orderabilityCommunication": {
+        "title": {},
+        "subTitle": {},
+        "message": {},
+        "customIcon": {}
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+          "lottie": {},
+          "video": {}
+        }
+      },
+      "reviewsSummary": {},
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "restaurantOfferPresentationInfo": {}
+    },
+    "analytics": {
+      "context": "seo-data-27eb5dfa-e499-42db-84f2-2255cc18a7b5"
+    },
+    "cta": {
+      "link": "https://www.swiggy.com/restaurants/a2b-adyar-ananda-bhavan-sonnapanahalli-bettahalasur-road-bangalore-365616",
+      "text": "RESTAURANT_MENU",
+      "type": "WEBLINK"
+    },
+    "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+  },
+  {
+    "info": {
+      "id": "232435",
+      "name": "Burger King",
+      "cloudinaryImageId": "e33e1d3ba7d6b2bb0d45e1001b731fcf",
+      "locality": "Betthalusur",
+      "areaName": "Chikkajala",
+      "costForTwo": "₹350 for two",
+      "cuisines": ["Burgers", "American"],
+      "avgRating": 4.2,
+      "feeDetails": {
+        "restaurantId": "232435",
+        "fees": [
+          {
+            "name": "BASE_DISTANCE",
+            "fee": 15500
+          },
+          {
+            "name": "BASE_TIME"
+          },
+          {
+            "name": "ANCILLARY_SURGE_FEE"
+          }
+        ],
+        "totalFee": 15500
+      },
+      "parentId": "166",
+      "avgRatingString": "4.2",
+      "totalRatingsString": "5K+",
+      "sla": {
+        "deliveryTime": 69,
+        "lastMileTravel": 14.2,
+        "serviceability": "SERVICEABLE",
+        "slaString": "69 mins",
+        "lastMileTravelString": "14.2 km",
+        "iconType": "ICON_TYPE_EMPTY"
+      },
+      "availability": {
+        "nextCloseTime": "2023-10-14 01:00:00",
+        "opened": true
+      },
+      "badges": {},
+      "isOpen": true,
+      "type": "F",
+      "badgesV2": {
+        "entityBadges": {
+          "imageBased": {},
+          "textBased": {},
+          "textExtendedBadges": {}
+        }
+      },
+      "aggregatedDiscountInfoV3": {
+        "header": "EVERY ITEM",
+        "subHeader": "@ ₹129"
+      },
+      "orderabilityCommunication": {
+        "title": {},
+        "subTitle": {},
+        "message": {},
+        "customIcon": {}
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+          "lottie": {},
+          "video": {}
+        }
+      },
+      "reviewsSummary": {},
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "restaurantOfferPresentationInfo": {}
+    },
+    "analytics": {
+      "context": "seo-data-27eb5dfa-e499-42db-84f2-2255cc18a7b5"
+    },
+    "cta": {
+      "link": "https://www.swiggy.com/restaurants/burger-king-betthalusur-chikkajala-bangalore-232435",
+      "text": "RESTAURANT_MENU",
+      "type": "WEBLINK"
+    },
+    "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+  },
+  {
+    "info": {
+      "id": "410401",
+      "name": "McCafe by McDonald's",
+      "cloudinaryImageId": "vdfvayjyc4gjdeayvg7u",
+      "locality": "Chikkajala",
+      "areaName": "International Airport",
+      "costForTwo": "₹250 for two",
+      "cuisines": ["Beverages", "Desserts"],
+      "avgRating": 4.2,
+      "veg": true,
+      "feeDetails": {
+        "restaurantId": "410401",
+        "fees": [
+          {
+            "name": "BASE_DISTANCE",
+            "fee": 9500
+          },
+          {
+            "name": "BASE_TIME"
+          },
+          {
+            "name": "ANCILLARY_SURGE_FEE"
+          }
+        ],
+        "totalFee": 9500
+      },
+      "parentId": "8263",
+      "avgRatingString": "4.2",
+      "totalRatingsString": "3",
+      "sla": {
+        "deliveryTime": 66,
+        "lastMileTravel": 10.2,
+        "serviceability": "SERVICEABLE",
+        "slaString": "66 mins",
+        "lastMileTravelString": "10.2 km",
+        "iconType": "ICON_TYPE_EMPTY"
+      },
+      "availability": {
+        "nextCloseTime": "2023-10-13 21:45:00",
+        "opened": true
+      },
+      "badges": {},
+      "isOpen": true,
+      "aggregatedDiscountInfoV2": {},
+      "type": "F",
+      "badgesV2": {
+        "entityBadges": {
+          "imageBased": {},
+          "textBased": {},
+          "textExtendedBadges": {}
+        }
+      },
+      "orderabilityCommunication": {
+        "title": {},
+        "subTitle": {},
+        "message": {},
+        "customIcon": {}
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+          "lottie": {},
+          "video": {}
+        }
+      },
+      "reviewsSummary": {},
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "restaurantOfferPresentationInfo": {}
+    },
+    "analytics": {
+      "context": "seo-data-27eb5dfa-e499-42db-84f2-2255cc18a7b5"
+    },
+    "cta": {
+      "link": "https://www.swiggy.com/restaurants/mccafe-by-mcdonalds-chikkajala-international-airport-bangalore-410401",
+      "text": "RESTAURANT_MENU",
+      "type": "WEBLINK"
+    },
+    "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+  },
+  {
+    "info": {
+      "id": "437194",
+      "name": "McDonald's Gourmet Burger Collection",
+      "cloudinaryImageId": "kdqyks4icf1y6ysfmxcp",
+      "locality": "Chikkajala",
+      "areaName": "Devanahalli",
+      "costForTwo": "₹400 for two",
+      "cuisines": ["Burgers", "Beverages", "Cafe", "Desserts"],
+      "avgRating": 3.8,
+      "feeDetails": {
+        "restaurantId": "437194",
+        "fees": [
+          {
+            "name": "BASE_DISTANCE",
+            "fee": 9500
+          },
+          {
+            "name": "BASE_TIME"
+          },
+          {
+            "name": "ANCILLARY_SURGE_FEE"
+          }
+        ],
+        "totalFee": 9500
+      },
+      "parentId": "10761",
+      "avgRatingString": "3.8",
+      "totalRatingsString": "20+",
+      "sla": {
+        "deliveryTime": 81,
+        "lastMileTravel": 10.2,
+        "serviceability": "SERVICEABLE",
+        "slaString": "81 mins",
+        "lastMileTravelString": "10.2 km",
+        "iconType": "ICON_TYPE_EMPTY"
+      },
+      "availability": {
+        "nextCloseTime": "2023-10-13 21:45:00",
+        "opened": true
+      },
+      "badges": {},
+      "isOpen": true,
+      "aggregatedDiscountInfoV2": {},
+      "type": "F",
+      "badgesV2": {
+        "entityBadges": {
+          "imageBased": {},
+          "textBased": {},
+          "textExtendedBadges": {}
+        }
+      },
+      "orderabilityCommunication": {
+        "title": {},
+        "subTitle": {},
+        "message": {},
+        "customIcon": {}
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+          "lottie": {},
+          "video": {}
+        }
+      },
+      "reviewsSummary": {},
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "restaurantOfferPresentationInfo": {}
+    },
+    "analytics": {
+      "context": "seo-data-27eb5dfa-e499-42db-84f2-2255cc18a7b5"
+    },
+    "cta": {
+      "link": "https://www.swiggy.com/restaurants/mcdonalds-gourmet-burger-collection-chikkajala-devanahalli-bangalore-437194",
+      "text": "RESTAURANT_MENU",
+      "type": "WEBLINK"
+    },
+    "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+  },
+  {
+    "info": {
+      "id": "752779",
+      "name": "Bhagini Veg Restaurant",
+      "cloudinaryImageId": "1b0a9f247600e1ac5b1a277500ce73dd",
+      "locality": "Hunasamaranahalli",
+      "areaName": "Yelahanka",
+      "costForTwo": "₹350 for two",
+      "cuisines": ["South Indian", "North Indian"],
+      "avgRating": 4.6,
+      "veg": true,
+      "feeDetails": {
+        "restaurantId": "752779",
+        "fees": [
+          {
+            "name": "BASE_DISTANCE",
+            "fee": 14000
+          },
+          {
+            "name": "BASE_TIME"
+          },
+          {
+            "name": "ANCILLARY_SURGE_FEE"
+          }
+        ],
+        "totalFee": 14000
+      },
+      "parentId": "445382",
+      "avgRatingString": "4.6",
+      "totalRatingsString": "10+",
+      "sla": {
+        "deliveryTime": 52,
+        "lastMileTravel": 13.9,
+        "serviceability": "SERVICEABLE",
+        "slaString": "52 mins",
+        "lastMileTravelString": "13.9 km",
+        "iconType": "ICON_TYPE_EMPTY"
+      },
+      "availability": {
+        "nextCloseTime": "2023-10-13 22:00:00",
+        "opened": true
+      },
+      "badges": {},
+      "isOpen": true,
+      "type": "F",
+      "badgesV2": {
+        "entityBadges": {
+          "imageBased": {},
+          "textBased": {},
+          "textExtendedBadges": {}
+        }
+      },
+      "aggregatedDiscountInfoV3": {
+        "header": "10% OFF",
+        "subHeader": "UPTO ₹40"
+      },
+      "orderabilityCommunication": {
+        "title": {},
+        "subTitle": {},
+        "message": {},
+        "customIcon": {}
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+          "lottie": {},
+          "video": {}
+        }
+      },
+      "reviewsSummary": {},
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "isNewlyOnboarded": true,
+      "restaurantOfferPresentationInfo": {}
+    },
+    "analytics": {
+      "context": "seo-data-27eb5dfa-e499-42db-84f2-2255cc18a7b5"
+    },
+    "cta": {
+      "link": "https://www.swiggy.com/restaurants/bhagini-veg-restaurant-hunasamaranahalli-yelahanka-bangalore-752779",
+      "text": "RESTAURANT_MENU",
+      "type": "WEBLINK"
+    },
+    "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+  },
+  {
+    "info": {
+      "id": "490536",
+      "name": "SRINIDHI VAIBHAVA",
+      "cloudinaryImageId": "ab2logvjoam0usqigpsh",
+      "locality": "Yelahanka",
+      "areaName": "Devanahalli",
+      "costForTwo": "₹500 for two",
+      "cuisines": [
+        "South Indian",
+        "North Indian",
+        "Chinese",
+        "Chaat",
+        "Juices"
+      ],
+      "avgRating": 3.4,
+      "veg": true,
+      "feeDetails": {
+        "restaurantId": "490536",
+        "fees": [
+          {
+            "name": "BASE_DISTANCE",
+            "fee": 11000
+          },
+          {
+            "name": "BASE_TIME"
+          },
+          {
+            "name": "ANCILLARY_SURGE_FEE"
+          }
+        ],
+        "totalFee": 11000
+      },
+      "parentId": "294288",
+      "avgRatingString": "3.4",
+      "totalRatingsString": "9",
+      "sla": {
+        "deliveryTime": 67,
+        "lastMileTravel": 11.8,
+        "serviceability": "SERVICEABLE",
+        "slaString": "67 mins",
+        "lastMileTravelString": "11.8 km",
+        "iconType": "ICON_TYPE_EMPTY"
+      },
+      "availability": {
+        "nextCloseTime": "2023-10-13 22:00:00",
+        "opened": true
+      },
+      "badges": {
+        "imageBadges": [
+          {
+            "imageId": "v1695133679/badges/Pure_Veg111.png",
+            "description": "pureveg"
+          }
+        ]
+      },
+      "isOpen": true,
+      "aggregatedDiscountInfoV2": {},
+      "type": "F",
+      "badgesV2": {
+        "entityBadges": {
+          "imageBased": {
+            "badgeObject": [
+              {
+                "attributes": {
+                  "description": "pureveg",
+                  "imageId": "v1695133679/badges/Pure_Veg111.png"
+                }
+              }
+            ]
+          },
+          "textBased": {},
+          "textExtendedBadges": {}
+        }
+      },
+      "orderabilityCommunication": {
+        "title": {},
+        "subTitle": {},
+        "message": {},
+        "customIcon": {}
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+          "lottie": {},
+          "video": {}
+        }
+      },
+      "reviewsSummary": {},
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "restaurantOfferPresentationInfo": {}
+    },
+    "analytics": {
+      "context": "seo-data-27eb5dfa-e499-42db-84f2-2255cc18a7b5"
+    },
+    "cta": {
+      "link": "https://www.swiggy.com/restaurants/srinidhi-vaibhava-yelahanka-devanahalli-bangalore-490536",
+      "text": "RESTAURANT_MENU",
+      "type": "WEBLINK"
+    },
+    "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+  },
+  {
+    "info": {
+      "id": "772272",
+      "name": "JNS FOODS HUB",
+      "cloudinaryImageId": "f1bc9ddf53de574cdc35ab2f717df234",
+      "locality": "Reva college Road",
+      "areaName": "Yelahanka",
+      "costForTwo": "₹250 for two",
+      "cuisines": [
+        "South Indian",
+        "Thalis",
+        "Fast Food",
+        "Biryani",
+        "Kebabs",
+        "Snacks"
+      ],
+      "feeDetails": {
+        "restaurantId": "772272",
+        "fees": [
+          {
+            "name": "BASE_DISTANCE",
+            "fee": 17000
+          },
+          {
+            "name": "BASE_TIME"
+          },
+          {
+            "name": "ANCILLARY_SURGE_FEE"
+          }
+        ],
+        "totalFee": 17000
+      },
+      "parentId": "460793",
+      "avgRatingString": "NEW",
+      "sla": {
+        "deliveryTime": 59,
+        "lastMileTravel": 15.4,
+        "serviceability": "SERVICEABLE",
+        "slaString": "59 mins",
+        "lastMileTravelString": "15.4 km",
+        "iconType": "ICON_TYPE_EMPTY"
+      },
+      "availability": {
+        "nextCloseTime": "2023-10-13 11:00:00",
+        "opened": true
+      },
+      "badges": {},
+      "isOpen": true,
+      "type": "F",
+      "badgesV2": {
+        "entityBadges": {
+          "imageBased": {},
+          "textBased": {},
+          "textExtendedBadges": {}
+        }
+      },
+      "aggregatedDiscountInfoV3": {
+        "header": "40% OFF",
+        "subHeader": "UPTO ₹80"
+      },
+      "orderabilityCommunication": {
+        "title": {},
+        "subTitle": {},
+        "message": {},
+        "customIcon": {}
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+          "lottie": {},
+          "video": {}
+        }
+      },
+      "reviewsSummary": {},
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "isNewlyOnboarded": true,
+      "restaurantOfferPresentationInfo": {}
+    },
+    "analytics": {
+      "context": "seo-data-27eb5dfa-e499-42db-84f2-2255cc18a7b5"
+    },
+    "cta": {
+      "link": "https://www.swiggy.com/restaurants/jns-foods-hub-reva-college-road-yelahanka-bangalore-772272",
+      "text": "RESTAURANT_MENU",
+      "type": "WEBLINK"
+    },
+    "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+  },
+  {
+    "info": {
+      "id": "697740",
+      "name": "Wild Bean Cafe",
+      "cloudinaryImageId": "0a05093f61f3892b94f7c7100634e50c",
+      "locality": "Bettahalsur",
+      "areaName": "Devanahalli",
+      "costForTwo": "₹350 for two",
+      "cuisines": ["Cafe", "Beverages", "Snacks", "Fast Food"],
+      "feeDetails": {
+        "restaurantId": "697740",
+        "fees": [
+          {
+            "name": "BASE_DISTANCE",
+            "fee": 9500
+          },
+          {
+            "name": "BASE_TIME"
+          },
+          {
+            "name": "ANCILLARY_SURGE_FEE"
+          }
+        ],
+        "totalFee": 9500
+      },
+      "parentId": "394419",
+      "avgRatingString": "--",
+      "sla": {
+        "deliveryTime": 64,
+        "lastMileTravel": 11,
+        "serviceability": "SERVICEABLE",
+        "slaString": "64 mins",
+        "lastMileTravelString": "11.0 km",
+        "iconType": "ICON_TYPE_EMPTY"
+      },
+      "availability": {
+        "nextCloseTime": "2023-10-14 01:00:00",
+        "opened": true
+      },
+      "badges": {},
+      "isOpen": true,
+      "aggregatedDiscountInfoV2": {},
+      "type": "F",
+      "badgesV2": {
+        "entityBadges": {
+          "imageBased": {},
+          "textBased": {},
+          "textExtendedBadges": {}
+        }
+      },
+      "orderabilityCommunication": {
+        "title": {},
+        "subTitle": {},
+        "message": {},
+        "customIcon": {}
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+          "lottie": {},
+          "video": {}
+        }
+      },
+      "reviewsSummary": {},
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "restaurantOfferPresentationInfo": {}
+    },
+    "analytics": {
+      "context": "seo-data-27eb5dfa-e499-42db-84f2-2255cc18a7b5"
+    },
+    "cta": {
+      "link": "https://www.swiggy.com/restaurants/wild-bean-cafe-bettahalsur-devanahalli-bangalore-697740",
+      "text": "RESTAURANT_MENU",
+      "type": "WEBLINK"
+    },
+    "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+  }
+]

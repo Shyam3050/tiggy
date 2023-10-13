@@ -1,0 +1,19 @@
+{
+  "name": "tiggy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "debug": "ndb server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "mongoose": "^5.5.2",
+    "ndb": "^1.1.5"
+  }
+}
